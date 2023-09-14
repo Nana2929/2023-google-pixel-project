@@ -1,55 +1,117 @@
-# 2023 Google Pixel User Sentiment Monitoring
-
-- [Experiment statistics]()
-- [2023 progress reports @ Pixel User Sentiment Monitoring Sync](https://drive.google.com/drive/folders/1FHPTiFqAyFaGuS5PuSO9JkydBFkhk2tB)
-
-## Content
-
-1. Crawler
-    - The crawler to crawl the data from the Google Pixel forum.
-    - Crawlers are based on [scrapy](https://scrapy.org/doc/).
-2. Pixel Dataset
-    - Label data of the crawled data
-    - The scripts to convert the labeled data from label-studio format to the format that can be used by the below models
-       - RobertaABSA
-       - Senti-LLaMA
-3. Senti-LLaMA Experiments
-    - Training script and hyperparam configs.
-    - Sentiment-LLaMA weights (?)
-    - Sentiment-LLaMA format converted dataset
-4. A Simple Baseline
-
-
-## 1. Crawler
-- Python Scrapy crawlers to crawl the 4 forums for Pixel Dataset.
-- Execute the scrapy commands following [official documentation](https://scrapy.org/doc/).
-    - At the top level of each scrapy project, execute the following. eg.
+# BERT Baseline
+- Date: 2023 Winter
+- Tool for simple aspect extraction and sentiment classification based on BERT
+- Framework
+    - [PyTorch Lightning](https://lightning.ai/)
+    - [miracleyoo/pytorch-lightning-template](https://github.com/miracleyoo/pytorch-lightning-template)
+- Folder structure
     ```shell
-    // at XDA
-    scrapy crawl XDA
+    google_opinion_baseline
+    ├── datasets
+    │   ├── ae
+    │   │   ├── common.py
+    │   │   ├── data_interface.py
+    │   │   └── extractive_qa.py
+    │   └── alsc
+    │       ├── alsc_data.py
+    │       └── data_interface.py
+    ├── models
+    │   ├── ae
+    │   │   ├── distil_bert.py
+    │   │   ├── metrics.py
+    │   │   ├── model_interface.py
+    │   │   └── utils.py
+    │   └── alsc
+    │       ├── deberta.py
+    │       └── model_interface.py
+    ├── requirements.txt
+    ├── inference.sh
+    ├── run_ae.py
+    └── run_alsc.py
     ```
 
-## 2. Pixel Dataset
-<!-- nanaeilish projects/sa-instruction-tuning -->
-### Description
-- The dataset is human-labeled by 3 people, following the [annotation guideline](https://docs.google.com/document/d/19w7FkId7zPuDumzs3LKfA632CLf0yIollKJHOhIDuMU/edit?usp=sharing).
-- The dataset is a complete ABSA dataset; each annotated entry is in the format of `(entity, aspect, sentiment, entity category, aspect category, sentiment polarity)`. The first 3 elements are extracted substrings of the original sentence. Note that when `aspect` is implicit, we do not label it, and hence that entry is reduced to
-`(entity, sentiment, entity category, sentiment polarity)`.
+## Before Start
+- Install the required packages
+    - Note that `torch` or `cublas` related packages should be installed manually after you survey your CUDA version and locate the correct distribution. Therefore they are *commented* in `requirements.txt`.
+    ```shell
+    pip install -r requirements.txt
+    ```
+- Prepare the data.
+    - We provide 1 dataset `laptop14` (copied from [ROGERDJQ/RoBERTaABSA](https://github.com/ROGERDJQ/RoBERTaABSA/tree/main/Dataset/Laptop)), with pre-split `train` and `validation` files. Note that the `*_Test.json` file is actually copied from `*_Validation.json`, but without the ground truth.
+## Aspect Extraction (`ae`) Sub-module
+- Input: one short review sentence eg. "The screen is high-quality."
+- Output: a contiguous aspect span in the sentence. eg. "screen".
+### I. Modes
+- `mode = train`: train the model to do aspect-term extraction.
+    - Data: train set comes from `--data_dir` with stem suffix `train` (case-insensitive), eg. `laptop_train.json`; validation split (if exists) comes from the files in `data_dir` with stem suffix `validation` (case-insensitive), eg. `laptop_validation.json`.
+    - Specify the model class to use with `--model_name`.
+        - Find the models available in `models/ae`, eg. `distil_bert`.
+    - Specify the dataset class to use with `--dataset`.
+        - Find the data classes available in `datasets/ae`, eg. `extractive_qa`.
+- `mode = test`: test with a specified checkpoint (`checkpoint_path`).
+    - Save the prediction files to `pred_file_path`.
+- `mode = validation`: evaluate the model with the validation split.
+- Demo of score table
+    ```
+    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+    ┃      Validate metric      ┃       DataLoader 0        ┃
+    ┡━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+    │          val_em           │    0.6516608595848083     │
+    │          val_f1           │     0.72415691614151      │
+    │         val_loss          │    0.8118242885057743     │
+    └───────────────────────────┴───────────────────────────┘
+    ```
 
-| Forum | Total data size| Data with more than 1 entry | Total entries|
-|----------|----------|----------|----------|
-|  XDA |  63 |  13  |  78  |
-|  Android Central  |  45 |  19  |  93  |
-|  Ars Technica  |  54 | 7 | 22 |
-|  Reddit | 43 |  8 |  49 |
+### II. Commands
 
-### Folder Structure
-```
-git switch data
-```
-- `processed` folder contains the label-studio exported labeled data, but processed.
-- `src` folder contains the source code to convert the label-studio exported labeled data to the format that can be used by the below models.
-- `scripts` folder contains the bash script to execute the `src`.
+`cd google_opinion_baseline`.
 
+- training
+- using `laptop14`
+    ```shell
+    python3 run_ae.py \
+    --model_name="distil_bert" \
+    --dataset="extractive_qa" \
+    --data_dir="./data/laptop14" \
+    --mode=train
+    ```
+- testing
+    - using `laptop14`
+    ```shell
+    python3 run_ae.py \
+    --data_dir="./data/laptop14" \
+    --mode=test \
+    --model_name="distil_bert" \
+    --dataset="extractive_qa" \
+    --checkpoint_path="./saved_models/silver-lining/08-[val_f1:0.8376].ckpt" \
+    --pred_file_path="./predictions/ae/laptop14_prediction.json"
+    ```
+- validating
+    - using `laptop14`
+    ```shell
+    python3 run_ae.py \
+    --data_dir=./data/laptop14 \
+    --mode=validation \
+    --model_name="distil_bert" \
+    --dataset="extractive_qa" \
+    --checkpoint_path="./saved_models/silver-lining/08-[val_f1:0.8376].ckpt"
+    ```
 
-## 3. Senti-LLaMA Experiments
+### Aspect-based Sentiment Classification (`alsc`) Sub-module
+- Input: a review sentence and an aspect term span. eg. "The screen is high-quality." and "screen".
+- Output: the sentiment of the aspect term. eg. "positive".
+#### I. Modes
+- Note that we only provide `test` mode for `alsc` sub-module.
+- `mode = test`
+    - Save the prediction files to `--pred_file_path`: a `.json` that includes the review sentences, the aspect spans, and the predicted sentiment.
+    - Test dataset comes from the files in `--data_dir` with stem suffix 'test' (case-insenstive), eg. `laptop_test.json`.
+#### II. Commands
+- testing
+    - using `laptop14`
+    ```shell
+    python3 run_alsc.py \
+    --data_dir="./data/laptop14" \
+    --model_name="deberta" \
+    --dataset="alsc_data" \
+    --pred_file_path="./predictions/alsc/laptop14_prediction.json"
+    ```
