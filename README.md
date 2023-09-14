@@ -1,4 +1,4 @@
-## Pixel Aspect TestSet (PATS)
+## Pixel ABSA TestSet (PATS)
 <!-- nanaeilish projects/sa-instruction-tuning -->
 ### Description
 - `PATS` is a complete ABSA dataset; each annotated entry is in the format of `(entity, aspect, sentiment, entity category, aspect category, sentiment polarity)`. The first 3 elements are extracted substrings of the original sentence. Note that when `aspect` is implicit, we do not label it, and hence that entry is reduced to
