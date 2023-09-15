@@ -1,14 +1,14 @@
 ## Pixel ABSA TestSet (PATS)
-<!-- nanaeilish projects/sa-instruction-tuning -->
 ### Description
 - `PATS` is a complete ABSA dataset; each annotated entry is in the format of `(entity, aspect, sentiment, entity category, aspect category, sentiment polarity)`. The first 3 elements are extracted substrings of the original sentence. Note that when `aspect` is implicit, we do not label it, and hence that entry is reduced to
 `(entity, sentiment, entity category, sentiment polarity)`.
 - Raw data
-    - The raw data is the data crawled by spiders in `crawler`.
+    - The raw data is the data crawled by spiders in `crawler` branch.
     - Crawled times fall at 2022-09 to 2023-07.
 - Annotation
     - The dataset is human-labeled by 3 people, following the [annotation guideline](https://docs.google.com/document/d/19w7FkId7zPuDumzs3LKfA632CLf0yIollKJHOhIDuMU/edit?usp=sharing).
-- Statistics
+
+### Statistics
 
 | Forum | Total data size| Data with more than 1 entry | Total entries|
 |----------|----------|----------|----------|
@@ -16,6 +16,9 @@
 |  Android Central  |  45 |  19  |  93  |
 |  Ars Technica  |  54 | 7 | 22 |
 |  Reddit | 43 |  8 |  49 |
+
+### Overview
+<img src="images/data_sample.png" width="400">
 
 ### Folder Structure
 ```
