@@ -27,4 +27,20 @@ git switch data
 - `processed` folder contains the label-studio exported labeled data, but processed.
 - `src` folder contains the source code to convert the label-studio exported labeled data to the format that can be used by the below models.
 - `scripts` folder contains the bash script to execute the `src`.
+### Usage
+```bash
+python3 pats/src/convert.py      # for other prompts
+python3 pats/src/alsc_convert.py # for ALSC prompt
+```
+- If you would like to change arguments, pass in the arguments as `python3 pats/src/convert.py --data_dir val1 --output_dir val2 ...`.
+```
+def main(
+    data_dir: Path = DATA_DIR,
+    output_dir: Path = OUTPUT_DIR,
+    inf_file_prefix: str = INF_FILE_PREFIX,
+    eval_file_prefix: str = EVAL_FILE_PREFIX,
+    prompt_format: str = "AS",
+):
+```
+- For the available prompt formats, see [pats/src/constants.py: PROMPT_SWITCH](pats/src/constants.py).
 
