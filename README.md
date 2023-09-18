@@ -21,7 +21,7 @@
 <img src="images/data_sample.png" width="400">
 
 ### Folder Structure
-```
+```bash
 git switch data
 ```
 - `processed` folder contains the label-studio exported labeled data, but processed.
@@ -33,7 +33,7 @@ python3 pats/src/convert.py      # for other prompts
 python3 pats/src/alsc_convert.py # for ALSC prompt
 ```
 - If you would like to change arguments, pass in the arguments as `python3 pats/src/convert.py --data_dir val1 --output_dir val2 ...`.
-```
+```python3
 def main(
     data_dir: Path = DATA_DIR,
     output_dir: Path = OUTPUT_DIR,
