@@ -1,0 +1,2534 @@
+[
+    {
+        "id": 1,
+        "text": "Boot time is super fast, around anywhere from 35 seconds to 1 minute.",
+        "pred_aspect": "Boot time",
+        "pred_score": 6.573972702026367
+    },
+    {
+        "id": 2,
+        "text": "tech support would not fix the problem unless I bought your plan for $150 plus.",
+        "pred_aspect": "tech support",
+        "pred_score": 7.662069320678711
+    },
+    {
+        "id": 3,
+        "text": "Set up was easy.",
+        "pred_aspect": "Set up",
+        "pred_score": 6.5413312911987305
+    },
+    {
+        "id": 4,
+        "text": "Did not enjoy the new Windows 8 and touchscreen functions.",
+        "pred_aspect": "touchscreen functions",
+        "pred_score": 7.431392669677734
+    },
+    {
+        "id": 5,
+        "text": "Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.",
+        "pred_aspect": "internal speakers",
+        "pred_score": 6.167314529418945
+    },
+    {
+        "id": 6,
+        "text": "No installation disk (DVD) is included.",
+        "pred_aspect": "installation disk",
+        "pred_score": 6.132575988769531
+    },
+    {
+        "id": 7,
+        "text": "It's fast, light, and simple to use.",
+        "pred_aspect": "use",
+        "pred_score": 7.393073558807373
+    },
+    {
+        "id": 8,
+        "text": "Works well, and I am extremely happy to be back to an apple OS.",
+        "pred_aspect": "OS",
+        "pred_score": 5.435636520385742
+    },
+    {
+        "id": 9,
+        "text": "Sure it's not light and slim but the features make up for it 100%.",
+        "pred_aspect": "features",
+        "pred_score": 9.35159683227539
+    },
+    {
+        "id": 10,
+        "text": "I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).",
+        "pred_aspect": "WiFi connection",
+        "pred_score": 6.674520492553711
+    },
+    {
+        "id": 11,
+        "text": "The Apple engineers have not yet discovered the delete key.",
+        "pred_aspect": "delete key",
+        "pred_score": 6.747331619262695
+    },
+    {
+        "id": 12,
+        "text": "Made interneting (part of my business) very difficult to maintain.",
+        "pred_aspect": "interneting",
+        "pred_score": 6.106121063232422
+    },
+    {
+        "id": 13,
+        "text": "Luckily, for all of us contemplating the decision, the Mac Mini is priced just right.",
+        "pred_aspect": "priced",
+        "pred_score": 4.2072649002075195
+    },
+    {
+        "id": 14,
+        "text": "Super light, super sexy and everything just works.",
+        "pred_aspect": "light",
+        "pred_score": 4.696398735046387
+    },
+    {
+        "id": 15,
+        "text": "Only problem that I had was that the track pad was not very good for me, I only had a problem once or twice with it, But probably my computer was a bit defective.",
+        "pred_aspect": "track pad",
+        "pred_score": 7.837953567504883
+    },
+    {
+        "id": 16,
+        "text": "It is super fast and has outstanding graphics.",
+        "pred_aspect": "graphics",
+        "pred_score": 8.409795761108398
+    },
+    {
+        "id": 17,
+        "text": "But the mountain lion is just too slow.",
+        "pred_aspect": "mountain lion",
+        "pred_score": 2.781801700592041
+    },
+    {
+        "id": 18,
+        "text": "Strong build though which really adds to its durability.",
+        "pred_aspect": "build",
+        "pred_score": 9.116874694824219
+    },
+    {
+        "id": 19,
+        "text": "The battery life is excellent- 6-7 hours without charging.",
+        "pred_aspect": "battery life",
+        "pred_score": 7.670963764190674
+    },
+    {
+        "id": 20,
+        "text": "I've had my computer for 2 weeks already and it works perfectly.",
+        "pred_aspect": "works",
+        "pred_score": 5.069150924682617
+    },
+    {
+        "id": 21,
+        "text": "And I may be the only one but I am really liking Windows 8.",
+        "pred_aspect": "Windows 8",
+        "pred_score": 6.969486236572266
+    },
+    {
+        "id": 22,
+        "text": "The baterry is very longer.",
+        "pred_aspect": "baterry",
+        "pred_score": 6.156467437744141
+    },
+    {
+        "id": 23,
+        "text": "Its size is ideal and the weight is acceptable.",
+        "pred_aspect": "size",
+        "pred_score": 8.122297286987305
+    },
+    {
+        "id": 24,
+        "text": "I can say that I am fully satisfied with the performance that the computer has supplied.",
+        "pred_aspect": "performance",
+        "pred_score": 8.518817901611328
+    },
+    {
+        "id": 25,
+        "text": "This laptop has only 2 USB ports, and they are both on the same side.",
+        "pred_aspect": "USB ports",
+        "pred_score": 6.4750213623046875
+    },
+    {
+        "id": 26,
+        "text": "It has so much more speed and the screen is very sharp.",
+        "pred_aspect": "screen",
+        "pred_score": 9.144702911376953
+    },
+    {
+        "id": 27,
+        "text": "Everything I wanted and everything I needed and the price was great!",
+        "pred_aspect": "price",
+        "pred_score": 8.705774307250977
+    },
+    {
+        "id": 28,
+        "text": "It's not inexpensive but the Hardware performance is impressive for a computer this small.",
+        "pred_aspect": "Hardware performance",
+        "pred_score": 7.514382362365723
+    },
+    {
+        "id": 29,
+        "text": "This thing is awesome, everything always works, everything is always easy to set up, everything is compatible, its literally everything I could ask for.",
+        "pred_aspect": "set up",
+        "pred_score": 2.390219211578369
+    },
+    {
+        "id": 30,
+        "text": "Keyboard responds well to presses.",
+        "pred_aspect": "Keyboard",
+        "pred_score": 9.89687728881836
+    },
+    {
+        "id": 31,
+        "text": "Lastly, Windows 8 is annoying.",
+        "pred_aspect": "Windows 8",
+        "pred_score": 6.869133472442627
+    },
+    {
+        "id": 32,
+        "text": "Everything is so easy and intuitive to setup or configure.",
+        "pred_aspect": "setup",
+        "pred_score": 5.193746566772461
+    },
+    {
+        "id": 33,
+        "text": "Biggest complaint is Windows 8 .",
+        "pred_aspect": "Windows 8",
+        "pred_score": 5.603724479675293
+    },
+    {
+        "id": 34,
+        "text": "Only 2 usb ports...seems kind of...limited.",
+        "pred_aspect": "ports",
+        "pred_score": 6.413768768310547
+    },
+    {
+        "id": 35,
+        "text": "It has all the expected features and more +plus a wide screen and more than roomy keyboard.",
+        "pred_aspect": "keyboard",
+        "pred_score": 6.670168876647949
+    },
+    {
+        "id": 36,
+        "text": "Amazing Performance for anything I throw at it.",
+        "pred_aspect": "Performance",
+        "pred_score": 8.964176177978516
+    },
+    {
+        "id": 37,
+        "text": "The receiver was full of superlatives for the quality and performance.",
+        "pred_aspect": "receiver",
+        "pred_score": 7.22994327545166
+    },
+    {
+        "id": 38,
+        "text": "I was extremely happy with the OS itself.",
+        "pred_aspect": "OS",
+        "pred_score": 8.08918285369873
+    },
+    {
+        "id": 39,
+        "text": "The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months.",
+        "pred_aspect": "MBP",
+        "pred_score": 6.376378059387207
+    },
+    {
+        "id": 40,
+        "text": "The criticism has waned, and now I'd be the first to recommend an Air for truly portable computing.",
+        "pred_aspect": "Air",
+        "pred_score": 3.6570918560028076
+    },
+    {
+        "id": 41,
+        "text": "I would have given it 5 starts was it not for the fact that it had Windows 8",
+        "pred_aspect": "Windows 8",
+        "pred_score": 4.037923812866211
+    },
+    {
+        "id": 42,
+        "text": "MS Office 2011 for Mac is wonderful, well worth it.",
+        "pred_aspect": "MS Office 2011",
+        "pred_score": 1.6803157329559326
+    },
+    {
+        "id": 43,
+        "text": "But the performance of Mac Mini is a huge disappointment.",
+        "pred_aspect": "performance",
+        "pred_score": 8.655921936035156
+    },
+    {
+        "id": 44,
+        "text": "They don't just look good; they deliver excellent performance.",
+        "pred_aspect": "performance",
+        "pred_score": 7.849190711975098
+    },
+    {
+        "id": 45,
+        "text": "I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display...this thing is Fast and clear as can be.",
+        "pred_aspect": "screen display",
+        "pred_score": 6.697691440582275
+    },
+    {
+        "id": 46,
+        "text": "The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows.",
+        "pred_aspect": "Mountain Lion OS",
+        "pred_score": 5.479352951049805
+    },
+    {
+        "id": 47,
+        "text": "However, I can refute that OSX is \"FAST\".",
+        "pred_aspect": "OSX",
+        "pred_score": 5.957281112670898
+    },
+    {
+        "id": 48,
+        "text": "Enjoy using Microsoft Office!",
+        "pred_aspect": "Microsoft Office",
+        "pred_score": 4.583904266357422
+    },
+    {
+        "id": 49,
+        "text": "Incredible graphics and brilliant colors.",
+        "pred_aspect": "graphics",
+        "pred_score": 8.435331344604492
+    },
+    {
+        "id": 50,
+        "text": "Built-in apps are purely amazing.",
+        "pred_aspect": "Built-in apps",
+        "pred_score": 7.892061710357666
+    },
+    {
+        "id": 51,
+        "text": "Cons: Screen resolution.",
+        "pred_aspect": "Screen resolution",
+        "pred_score": 8.709537506103516
+    },
+    {
+        "id": 52,
+        "text": "From the speed to the multi touch gestures this operating system beats Windows easily.",
+        "pred_aspect": "speed to the multi touch gestures this operating system",
+        "pred_score": 7.08133602142334
+    },
+    {
+        "id": 53,
+        "text": "I really like the size and I'm a fan of the ACERS.",
+        "pred_aspect": "size",
+        "pred_score": 7.301642417907715
+    },
+    {
+        "id": 54,
+        "text": "I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ($1500-2000) which also support \"accidents\" like drops and spills that are NOT covered by AppleCare.",
+        "pred_aspect": "SquareTrade 3-Year Computer Accidental Protection Warranty",
+        "pred_score": 4.857873916625977
+    },
+    {
+        "id": 55,
+        "text": "It's light and easy to transport.",
+        "pred_aspect": "transport",
+        "pred_score": 7.1015191078186035
+    },
+    {
+        "id": 56,
+        "text": "Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated.",
+        "pred_aspect": "Windows 8 Set-Up",
+        "pred_score": 6.396080017089844
+    },
+    {
+        "id": 57,
+        "text": "It's been time for a new laptop, and the only debate was which size of the Mac laptops, and whether to spring for the retina display.",
+        "pred_aspect": "retina display",
+        "pred_score": 4.651669502258301
+    },
+    {
+        "id": 58,
+        "text": "The reason why I choose apple MacBook because of their design and the aluminum casing.",
+        "pred_aspect": "design",
+        "pred_score": 6.343294143676758
+    },
+    {
+        "id": 59,
+        "text": "The aluminum body sure makes it stand out.",
+        "pred_aspect": "aluminum body",
+        "pred_score": 7.123025894165039
+    },
+    {
+        "id": 60,
+        "text": "It is very easy to integrate bluetooth devices, and USB devices are recognized almost instantly.",
+        "pred_aspect": "USB devices",
+        "pred_score": 4.166040420532227
+    },
+    {
+        "id": 61,
+        "text": "And the fact that Apple is driving the 13\" RMBP with the Intel4000 graphic chip seems underpowered (to me.",
+        "pred_aspect": "Intel4000 graphic chip",
+        "pred_score": 6.851502418518066
+    },
+    {
+        "id": 62,
+        "text": "Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.",
+        "pred_aspect": "DVD drive Firewire port",
+        "pred_score": 5.702347278594971
+    },
+    {
+        "id": 63,
+        "text": "The durability of the laptop will make it worth the money.",
+        "pred_aspect": "durability",
+        "pred_score": 6.97917366027832
+    },
+    {
+        "id": 64,
+        "text": "Well designed and fast.",
+        "pred_aspect": "designed",
+        "pred_score": 2.739333391189575
+    },
+    {
+        "id": 65,
+        "text": "But I was completely wrong, this computer is UNBELIEVABLE amazing and easy to use.",
+        "pred_aspect": "use",
+        "pred_score": 7.831601619720459
+    },
+    {
+        "id": 66,
+        "text": "Exactly as posted plus a great value.",
+        "pred_aspect": "value",
+        "pred_score": 7.322271347045898
+    },
+    {
+        "id": 67,
+        "text": "The specs are pretty good too.",
+        "pred_aspect": "specs",
+        "pred_score": 8.121681213378906
+    },
+    {
+        "id": 68,
+        "text": "Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.",
+        "pred_aspect": "aesthetics,craftmanship, and customer service",
+        "pred_score": 5.6834330558776855
+    },
+    {
+        "id": 69,
+        "text": "It is a great size and amazing windows 8 included!",
+        "pred_aspect": "size",
+        "pred_score": 6.824119567871094
+    },
+    {
+        "id": 70,
+        "text": "I do not like too much Windows 8.",
+        "pred_aspect": "Windows 8",
+        "pred_score": 6.530137062072754
+    },
+    {
+        "id": 71,
+        "text": "Startup times are incredibly long: over two minutes.",
+        "pred_aspect": "Startup times",
+        "pred_score": 7.288230895996094
+    },
+    {
+        "id": 72,
+        "text": "Also stunning colors and speedy",
+        "pred_aspect": "colors",
+        "pred_score": 6.919284820556641
+    },
+    {
+        "id": 73,
+        "text": "great price free shipping what else can i ask for!!",
+        "pred_aspect": "price free shipping",
+        "pred_score": 7.394305229187012
+    },
+    {
+        "id": 74,
+        "text": "This mouse is terrific.",
+        "pred_aspect": "mouse",
+        "pred_score": 5.637519836425781
+    },
+    {
+        "id": 75,
+        "text": "It is really thick around the battery.",
+        "pred_aspect": "battery",
+        "pred_score": 8.539644241333008
+    },
+    {
+        "id": 76,
+        "text": "And windows 7 works like a charm.",
+        "pred_aspect": "windows 7",
+        "pred_score": 6.724812030792236
+    },
+    {
+        "id": 77,
+        "text": ":) Great product, great price, great delivery, and great service.",
+        "pred_aspect": "price",
+        "pred_score": 6.653124809265137
+    },
+    {
+        "id": 78,
+        "text": ":] It arrived so fast and customer service was great.",
+        "pred_aspect": "customer service",
+        "pred_score": 7.3722405433654785
+    },
+    {
+        "id": 79,
+        "text": "tried windows 8 and hated it !!!",
+        "pred_aspect": "windows 8",
+        "pred_score": 6.822449684143066
+    },
+    {
+        "id": 80,
+        "text": "The price is higher than most lab top out there; however, he/she will get what they paid for, which is a great computer.",
+        "pred_aspect": "price",
+        "pred_score": 7.7885541915893555
+    },
+    {
+        "id": 81,
+        "text": "Set up was a breeze.",
+        "pred_aspect": "Set up",
+        "pred_score": 4.535378932952881
+    },
+    {
+        "id": 82,
+        "text": "But I do NOT like Win8.",
+        "pred_aspect": "Win8",
+        "pred_score": 3.6099658012390137
+    },
+    {
+        "id": 83,
+        "text": "I am still in the process of learning about its features.",
+        "pred_aspect": "features",
+        "pred_score": 7.677700042724609
+    },
+    {
+        "id": 84,
+        "text": "I had the same reasons as most PC users: the price, the overbearing restrictions of OSX and lack of support for games.",
+        "pred_aspect": "price",
+        "pred_score": 5.905752182006836
+    },
+    {
+        "id": 85,
+        "text": "I wanted it for it's mobility and man, this little bad boy is very nice.",
+        "pred_aspect": "mobility",
+        "pred_score": 7.346988677978516
+    },
+    {
+        "id": 86,
+        "text": "The investment of a new MacBook Pro came at a price, but totally worth it for a good piece of mind.",
+        "pred_aspect": "price",
+        "pred_score": 5.819195747375488
+    },
+    {
+        "id": 87,
+        "text": "I found the mini to be:Exceptionally easy to set up",
+        "pred_aspect": "mini",
+        "pred_score": 3.374821424484253
+    },
+    {
+        "id": 88,
+        "text": "Having USB3 is why I bought this Mini.",
+        "pred_aspect": "USB3",
+        "pred_score": 6.607257843017578
+    },
+    {
+        "id": 89,
+        "text": "The sound is nice and loud; I don't have any problems with hearing anything.",
+        "pred_aspect": "sound",
+        "pred_score": 9.235106468200684
+    },
+    {
+        "id": 90,
+        "text": "It is very slim, the track pad is very much impressed with me.",
+        "pred_aspect": "track pad",
+        "pred_score": 9.063610076904297
+    },
+    {
+        "id": 91,
+        "text": "The settings are not user-friendly either.",
+        "pred_aspect": "settings",
+        "pred_score": 9.088654518127441
+    },
+    {
+        "id": 92,
+        "text": "Thank goodness for OpenOffice!",
+        "pred_aspect": "OpenOffice",
+        "pred_score": 5.861101150512695
+    },
+    {
+        "id": 93,
+        "text": "Awesome form factor, great battery life, wonderful UX.",
+        "pred_aspect": "battery life",
+        "pred_score": 7.417827129364014
+    },
+    {
+        "id": 94,
+        "text": "i love the keyboard and the screen.",
+        "pred_aspect": "screen",
+        "pred_score": 8.329591751098633
+    },
+    {
+        "id": 95,
+        "text": "However, there are MAJOR issues with the touchpad which render the device nearly useless.",
+        "pred_aspect": "touchpad",
+        "pred_score": 7.687150955200195
+    },
+    {
+        "id": 96,
+        "text": "I've already upgraded o Mavericks and I am impressed with everything about this computer.",
+        "pred_aspect": "o Mavericks",
+        "pred_score": 1.0219552516937256
+    },
+    {
+        "id": 97,
+        "text": "Not as fast as I would have expect for an i5.",
+        "pred_aspect": "i5",
+        "pred_score": 3.3492794036865234
+    },
+    {
+        "id": 98,
+        "text": "thanks for great service and shipping!",
+        "pred_aspect": "service and shipping",
+        "pred_score": 7.6604323387146
+    },
+    {
+        "id": 99,
+        "text": "The performance seems quite good, and built-in applications like iPhoto work great with my phone and camera.",
+        "pred_aspect": "performance",
+        "pred_score": 7.245126724243164
+    },
+    {
+        "id": 100,
+        "text": "I did swap out the hard drive for a Samsung 830 SSD which I highly recommend.",
+        "pred_aspect": "hard drive",
+        "pred_score": 7.396454811096191
+    },
+    {
+        "id": 101,
+        "text": "Starts up in a hurry and everything is ready to go.",
+        "pred_aspect": "Starts",
+        "pred_score": -3.2935919761657715
+    },
+    {
+        "id": 102,
+        "text": "Yes, that's a good thing, but it's made from aluminum that scratches easily.",
+        "pred_aspect": "aluminum",
+        "pred_score": 3.7600820064544678
+    },
+    {
+        "id": 103,
+        "text": "Quick and has built in virus control.",
+        "pred_aspect": "virus control",
+        "pred_score": 5.933647155761719
+    },
+    {
+        "id": 104,
+        "text": "Took a long time trying to decide between one with retina display and one without.",
+        "pred_aspect": "retina display",
+        "pred_score": 5.67575740814209
+    },
+    {
+        "id": 105,
+        "text": "I was also informed that the components of the Mac Book were dirty.",
+        "pred_aspect": "components",
+        "pred_score": 4.582857131958008
+    },
+    {
+        "id": 106,
+        "text": "the hardware problems have been so bad, i can't wait till it completely dies in 3 years, TOPS!",
+        "pred_aspect": "hardware",
+        "pred_score": 6.708174705505371
+    },
+    {
+        "id": 107,
+        "text": "It's so nice that the battery last so long and that this machine has the snow lion!",
+        "pred_aspect": "battery",
+        "pred_score": 8.349586486816406
+    },
+    {
+        "id": 108,
+        "text": "HOWEVER I chose two day shipping and it took over a week to arrive.",
+        "pred_aspect": "shipping",
+        "pred_score": 4.330083847045898
+    },
+    {
+        "id": 109,
+        "text": "it's exactly what i wanted, and it has all the new features and whatnot.",
+        "pred_aspect": "features",
+        "pred_score": 7.11712121963501
+    },
+    {
+        "id": 110,
+        "text": "Can you buy any laptop that matches the quality of a MacBook?",
+        "pred_aspect": "quality",
+        "pred_score": 5.319479942321777
+    },
+    {
+        "id": 111,
+        "text": "It feels cheap, the keyboard is not very sensitive.",
+        "pred_aspect": "keyboard",
+        "pred_score": 8.478351593017578
+    },
+    {
+        "id": 112,
+        "text": "Though please note that sometimes it crashes, and the sound quality isnt superb.",
+        "pred_aspect": "sound quality",
+        "pred_score": 8.052371978759766
+    },
+    {
+        "id": 113,
+        "text": "It is very easy to navigate even for a novice.",
+        "pred_aspect": "navigate",
+        "pred_score": 6.843624114990234
+    },
+    {
+        "id": 114,
+        "text": "Does everything I need it to, has a wonderful battery life and I couldn't be happier.",
+        "pred_aspect": "battery life",
+        "pred_score": 7.533897399902344
+    },
+    {
+        "id": 115,
+        "text": "Great Performance and Quality.",
+        "pred_aspect": "Performance and Quality",
+        "pred_score": 7.436458110809326
+    },
+    {
+        "id": 116,
+        "text": "I used windows XP, windows Vista, and Windows 7 extensively.",
+        "pred_aspect": "windows XP",
+        "pred_score": 5.941566467285156
+    },
+    {
+        "id": 117,
+        "text": "I did add a SSD drive and memory",
+        "pred_aspect": "SSD drive",
+        "pred_score": 5.920648574829102
+    },
+    {
+        "id": 118,
+        "text": "On start up it asks endless questions just so itune can sell you more of their products.",
+        "pred_aspect": "products",
+        "pred_score": -1.5729918479919434
+    },
+    {
+        "id": 119,
+        "text": "I Have been a Pc user for a very long time now but I will get used to this new OS.",
+        "pred_aspect": "OS",
+        "pred_score": 6.111049175262451
+    },
+    {
+        "id": 120,
+        "text": "One more thing, this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC's, also the charging cables are made of the same cheap material as the iPhone/iPod touch cables.",
+        "pred_aspect": "charging cables",
+        "pred_score": 5.28073787689209
+    },
+    {
+        "id": 121,
+        "text": "I bought it to my son who uses it for graphic design.",
+        "pred_aspect": "graphic design",
+        "pred_score": 5.779268741607666
+    },
+    {
+        "id": 122,
+        "text": "I never tried any external mics with that iMac.",
+        "pred_aspect": "external mics",
+        "pred_score": 5.310125350952148
+    },
+    {
+        "id": 123,
+        "text": "The new os is great on my macbook pro!",
+        "pred_aspect": "os",
+        "pred_score": 1.8111835718154907
+    },
+    {
+        "id": 124,
+        "text": "I had a little problem adjusting to the small screen but works fine as long as I remember to carry my glasses.",
+        "pred_aspect": "screen",
+        "pred_score": 6.694681167602539
+    },
+    {
+        "id": 125,
+        "text": "I have experienced no problems, works as anticipated.",
+        "pred_aspect": "works",
+        "pred_score": 5.138031959533691
+    },
+    {
+        "id": 126,
+        "text": "System is running great.",
+        "pred_aspect": "System",
+        "pred_score": 8.38235855102539
+    },
+    {
+        "id": 127,
+        "text": "Easy to customize setting and even create your own bookmarks.",
+        "pred_aspect": "setting",
+        "pred_score": 5.568643569946289
+    },
+    {
+        "id": 128,
+        "text": "The MAC Mini, wireless keyboard / mouse and a HDMI cable is all I need to get some real work done.",
+        "pred_aspect": "HDMI cable",
+        "pred_score": 5.910433769226074
+    },
+    {
+        "id": 129,
+        "text": "it has all the features that we expected and the price was good, working well so far.",
+        "pred_aspect": "price",
+        "pred_score": 7.936374187469482
+    },
+    {
+        "id": 130,
+        "text": "I work as a designer and coder and I needed a new buddy to work with, not gaming.",
+        "pred_aspect": "coder",
+        "pred_score": 5.849522113800049
+    },
+    {
+        "id": 131,
+        "text": "The new operating system makes this computer into a super iPad.",
+        "pred_aspect": "operating system",
+        "pred_score": 7.869664192199707
+    },
+    {
+        "id": 132,
+        "text": "Easy to set up and go!",
+        "pred_aspect": "set up",
+        "pred_score": 1.7703949213027954
+    },
+    {
+        "id": 133,
+        "text": "I can't believe how quiet the hard drive is and how quick this thing boots up.",
+        "pred_aspect": "hard drive",
+        "pred_score": 8.84536361694336
+    },
+    {
+        "id": 134,
+        "text": "The only issue came when I tried scanning to the mac.",
+        "pred_aspect": "scanning to the mac",
+        "pred_score": 1.3601585626602173
+    },
+    {
+        "id": 135,
+        "text": "I think this is about as good as it gets at anything close to this price point.",
+        "pred_aspect": "price",
+        "pred_score": 6.087294101715088
+    },
+    {
+        "id": 136,
+        "text": "It's just what we were looking for and it works great.",
+        "pred_aspect": "works",
+        "pred_score": 5.520515441894531
+    },
+    {
+        "id": 137,
+        "text": "It's so quick and responsive that it makes working/surfing on a computer so much more pleasurable!",
+        "pred_aspect": "working/surfing",
+        "pred_score": 4.132311820983887
+    },
+    {
+        "id": 138,
+        "text": "It works fine, and all the software seems to run pretty well.",
+        "pred_aspect": "software",
+        "pred_score": 8.156636238098145
+    },
+    {
+        "id": 139,
+        "text": "I'm using this computer for word processing, web browsing, some gaming, and I'm learning programming.",
+        "pred_aspect": "web browsing, some gaming, and I'm learning programming",
+        "pred_score": 4.587218761444092
+    },
+    {
+        "id": 140,
+        "text": "My wife was so excited to open the box, but quickly came to see that it did not function as it should.",
+        "pred_aspect": "function",
+        "pred_score": 6.110879421234131
+    },
+    {
+        "id": 141,
+        "text": "I wanted a computer that was quite, fast, and that had overall great performance.",
+        "pred_aspect": "performance",
+        "pred_score": 7.665623664855957
+    },
+    {
+        "id": 142,
+        "text": "Apple \"Help\" is a mixed bag.",
+        "pred_aspect": "Help",
+        "pred_score": 5.09133768081665
+    },
+    {
+        "id": 143,
+        "text": "It suddenly can not work.",
+        "pred_aspect": "work",
+        "pred_score": 4.339953899383545
+    },
+    {
+        "id": 144,
+        "text": "Harddrive was in poor condition, had to replace it.",
+        "pred_aspect": "Harddrive",
+        "pred_score": 6.97373104095459
+    },
+    {
+        "id": 145,
+        "text": "The on/off switch is a bit obscure in the rear corner.",
+        "pred_aspect": "on/off switch",
+        "pred_score": 6.453653335571289
+    },
+    {
+        "id": 146,
+        "text": "My only complaint is the total lack of instructions that come with the mac mini.",
+        "pred_aspect": "instructions",
+        "pred_score": 6.4341630935668945
+    },
+    {
+        "id": 147,
+        "text": "The only task that this computer would not be good enough for would be gaming, otherwise the integrated Intel 4000 graphics work well for other tasks.",
+        "pred_aspect": "gaming, otherwise the integrated Intel 4000 graphics",
+        "pred_score": 4.77468729019165
+    },
+    {
+        "id": 148,
+        "text": "I'm hoping the rest of the features will be the signature quality of apple.",
+        "pred_aspect": "features",
+        "pred_score": 6.3229498863220215
+    },
+    {
+        "id": 149,
+        "text": "I use it mostly for content creation (Audio, video, photo editing) and its reliable.",
+        "pred_aspect": "content creation",
+        "pred_score": 5.221677303314209
+    },
+    {
+        "id": 150,
+        "text": "Screen is bright and gorgeous.",
+        "pred_aspect": "Screen",
+        "pred_score": 9.28915786743164
+    },
+    {
+        "id": 151,
+        "text": "The only solution is to turn the brightness down, etc.",
+        "pred_aspect": "brightness",
+        "pred_score": 7.160464286804199
+    },
+    {
+        "id": 152,
+        "text": "If you want more information on macs I suggest going to apple.com and heading towards the macbook page for more information on the applications.",
+        "pred_aspect": "applications",
+        "pred_score": 4.0306549072265625
+    },
+    {
+        "id": 153,
+        "text": "It is robust, with a friendly use as all Apple products.",
+        "pred_aspect": "use",
+        "pred_score": 6.16446590423584
+    },
+    {
+        "id": 154,
+        "text": "It is fast and easy to use.",
+        "pred_aspect": "use",
+        "pred_score": 8.277771949768066
+    },
+    {
+        "id": 155,
+        "text": "And the fact that it comes with an i5 processor definitely speeds things up",
+        "pred_aspect": "i5 processor",
+        "pred_score": 6.927646636962891
+    },
+    {
+        "id": 156,
+        "text": "I have been PC for years but this computer is intuitive and its built in features are a great help",
+        "pred_aspect": "features",
+        "pred_score": 7.767447471618652
+    },
+    {
+        "id": 157,
+        "text": "Nice screen, keyboard works great!",
+        "pred_aspect": "screen",
+        "pred_score": 8.074135780334473
+    },
+    {
+        "id": 158,
+        "text": "I was amazed at how fast the delivery was.",
+        "pred_aspect": "delivery",
+        "pred_score": 6.4679975509643555
+    },
+    {
+        "id": 159,
+        "text": "I've installed to it additional SSD and 16Gb RAM.",
+        "pred_aspect": "SSD and 16Gb RAM",
+        "pred_score": 6.017306804656982
+    },
+    {
+        "id": 160,
+        "text": "The memory was gone and it was not able to be used.",
+        "pred_aspect": "memory",
+        "pred_score": 8.323577880859375
+    },
+    {
+        "id": 161,
+        "text": "It works great and I am so happy I bought it.",
+        "pred_aspect": "works",
+        "pred_score": 6.141064167022705
+    },
+    {
+        "id": 162,
+        "text": "I like the design and ease of use with the keyboard, plenty of ports.",
+        "pred_aspect": "keyboard",
+        "pred_score": 7.232599258422852
+    },
+    {
+        "id": 163,
+        "text": "it definitely beats my old mac and the service was great.",
+        "pred_aspect": "service",
+        "pred_score": 8.10605525970459
+    },
+    {
+        "id": 164,
+        "text": "Web browsing is very quick with Safari browser.",
+        "pred_aspect": "Web browsing",
+        "pred_score": 6.064174175262451
+    },
+    {
+        "id": 165,
+        "text": "I like the lighted screen at night.",
+        "pred_aspect": "screen",
+        "pred_score": 8.219104766845703
+    },
+    {
+        "id": 166,
+        "text": "It is really easy to use and it is quick to start up.",
+        "pred_aspect": "use",
+        "pred_score": 7.985753536224365
+    },
+    {
+        "id": 167,
+        "text": "I've lived with the crashes and slow operation and restarts.",
+        "pred_aspect": "operation",
+        "pred_score": 7.625014305114746
+    },
+    {
+        "id": 168,
+        "text": "USB3 Peripherals are noticably less expensive than the ThunderBolt ones.",
+        "pred_aspect": "USB3 Peripherals",
+        "pred_score": 6.288832664489746
+    },
+    {
+        "id": 169,
+        "text": "And mine had broke but I sent it in under warranty-no problems.",
+        "pred_aspect": "warranty",
+        "pred_score": 8.562969207763672
+    },
+    {
+        "id": 170,
+        "text": "It's fast, light, and is perfect for media editing, which is mostly why I bought it in the first place.",
+        "pred_aspect": "media editing",
+        "pred_score": 5.581501483917236
+    },
+    {
+        "id": 171,
+        "text": "The battery lasts as advertised (give or take 15-20 minutes), and the entire user experience is very elegant.",
+        "pred_aspect": "battery",
+        "pred_score": 8.340286254882812
+    },
+    {
+        "id": 172,
+        "text": "Thanks for the fast shipment and great price.",
+        "pred_aspect": "price",
+        "pred_score": 8.539510726928711
+    },
+    {
+        "id": 173,
+        "text": "!Excelent performance, usability, presentation and time response.",
+        "pred_aspect": "performance",
+        "pred_score": 6.9414381980896
+    },
+    {
+        "id": 174,
+        "text": "The smaller size was a bonus because of space restrictions.",
+        "pred_aspect": "size",
+        "pred_score": 6.6376848220825195
+    },
+    {
+        "id": 175,
+        "text": "I blame the Mac OS.",
+        "pred_aspect": "Mac OS",
+        "pred_score": 4.966299533843994
+    },
+    {
+        "id": 176,
+        "text": "In fact I still use manyLegacy programs (Appleworks, FileMaker Pro, Quicken, Photoshop etc)!",
+        "pred_aspect": "FileMaker Pro, Quicken, Photoshop",
+        "pred_score": 5.006070137023926
+    },
+    {
+        "id": 177,
+        "text": "I like the operating system.",
+        "pred_aspect": "operating system",
+        "pred_score": 8.41189956665039
+    },
+    {
+        "id": 178,
+        "text": "I love the form factor.",
+        "pred_aspect": "form factor",
+        "pred_score": 8.608651161193848
+    },
+    {
+        "id": 179,
+        "text": "It's fast at loading the internet.",
+        "pred_aspect": "internet",
+        "pred_score": 4.269028186798096
+    },
+    {
+        "id": 180,
+        "text": "So much faster and sleeker looking.",
+        "pred_aspect": "looking",
+        "pred_score": 5.300886631011963
+    },
+    {
+        "id": 181,
+        "text": "Unfortunately, it runs XP and Microsoft is dropping support next April.",
+        "pred_aspect": "XP",
+        "pred_score": 6.183635711669922
+    },
+    {
+        "id": 182,
+        "text": "First off, I really do like my MBP... once used to the OS it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.",
+        "pred_aspect": "build",
+        "pred_score": 5.695145606994629
+    },
+    {
+        "id": 183,
+        "text": "It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit.",
+        "pred_aspect": "construction",
+        "pred_score": 6.338115215301514
+    },
+    {
+        "id": 184,
+        "text": "Very nice unibody construction.",
+        "pred_aspect": "unibody construction",
+        "pred_score": 7.065103530883789
+    },
+    {
+        "id": 185,
+        "text": "This Macbook Pro is fast, powerful, and runs super quiet and cool.",
+        "pred_aspect": "runs",
+        "pred_score": 5.127103328704834
+    },
+    {
+        "id": 186,
+        "text": "It's ok but doesn't have a disk drive which I didn't know until after I bought it.",
+        "pred_aspect": "disk drive",
+        "pred_score": 7.892908096313477
+    },
+    {
+        "id": 187,
+        "text": "There is no HDMI receptacle, nor is there an SD card slot located anywhere on the device.",
+        "pred_aspect": "HDMI receptacle",
+        "pred_score": 5.779206275939941
+    },
+    {
+        "id": 188,
+        "text": "It came in brand new and works perfectly.",
+        "pred_aspect": "works",
+        "pred_score": 4.639954566955566
+    },
+    {
+        "id": 189,
+        "text": "It shouldn't happen like that, I don't have any design app open or anything.",
+        "pred_aspect": "design app",
+        "pred_score": 6.38760232925415
+    },
+    {
+        "id": 190,
+        "text": "MY TRACKPAD IS NOT WORKING.",
+        "pred_aspect": "TRACKPAD IS NOT WORKING",
+        "pred_score": 3.60599946975708
+    },
+    {
+        "id": 191,
+        "text": "It looks and feels solid, with a flawless finish.",
+        "pred_aspect": "finish",
+        "pred_score": 7.331662178039551
+    },
+    {
+        "id": 192,
+        "text": "Price was higher when purchased on MAC when compared to price showing on PC when I bought this product.",
+        "pred_aspect": "Price",
+        "pred_score": 5.48156213760376
+    },
+    {
+        "id": 193,
+        "text": "Then the system would many times not power down without a forced power-off.",
+        "pred_aspect": "system",
+        "pred_score": 5.880920886993408
+    },
+    {
+        "id": 194,
+        "text": "The configuration is perfect for my needs.",
+        "pred_aspect": "configuration",
+        "pred_score": 8.062833786010742
+    },
+    {
+        "id": 195,
+        "text": "and the speakers is the worst ever.",
+        "pred_aspect": "speakers",
+        "pred_score": 9.119152069091797
+    },
+    {
+        "id": 196,
+        "text": "Its the best, its got the looks, super easy to use and love all you can do with the trackpad!..",
+        "pred_aspect": "trackpad",
+        "pred_score": 7.740100383758545
+    },
+    {
+        "id": 197,
+        "text": "Web surfuring is smooth and seamless.",
+        "pred_aspect": "Web surfuring",
+        "pred_score": 7.475966930389404
+    },
+    {
+        "id": 198,
+        "text": "I'm overall pleased with the interface and the portability of this product.",
+        "pred_aspect": "interface and the portability",
+        "pred_score": 8.050895690917969
+    },
+    {
+        "id": 199,
+        "text": "This item is a beautiful piece, it works well, it is easy to carry and handle.",
+        "pred_aspect": "handle",
+        "pred_score": 7.374144554138184
+    },
+    {
+        "id": 200,
+        "text": "It was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.",
+        "pred_aspect": "performance",
+        "pred_score": 6.823690414428711
+    },
+    {
+        "id": 201,
+        "text": "Runs good and does the job, can't complain about that!",
+        "pred_aspect": "Runs good and does the job",
+        "pred_score": 3.78660249710083
+    },
+    {
+        "id": 202,
+        "text": "It's silent and has a very small footprint on my desk.",
+        "pred_aspect": "footprint",
+        "pred_score": 5.275822639465332
+    },
+    {
+        "id": 203,
+        "text": "The exterior is absolutely gorgeous.",
+        "pred_aspect": "exterior",
+        "pred_score": 8.35082721710205
+    },
+    {
+        "id": 204,
+        "text": "It has a very high performance, just for what I needed for.",
+        "pred_aspect": "performance",
+        "pred_score": 7.7331953048706055
+    },
+    {
+        "id": 205,
+        "text": "Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset.",
+        "pred_aspect": "graphics chipset",
+        "pred_score": 4.946378707885742
+    },
+    {
+        "id": 206,
+        "text": "OSX Mountain Lion  soon to upgrade to Mavericks.",
+        "pred_aspect": "OSX Mountain Lion",
+        "pred_score": 3.9685375690460205
+    },
+    {
+        "id": 207,
+        "text": "I just bought the new MacBook Pro, the 13\" model, and I can't believe Apple keeps making the same mistake with regard to USB ports.",
+        "pred_aspect": "USB ports",
+        "pred_score": 5.903252601623535
+    },
+    {
+        "id": 208,
+        "text": "It wakes in less than a second when I open the lid.",
+        "pred_aspect": "lid",
+        "pred_score": 5.76314640045166
+    },
+    {
+        "id": 209,
+        "text": "It is the perfect size and speed for me.",
+        "pred_aspect": "speed",
+        "pred_score": 9.037908554077148
+    },
+    {
+        "id": 210,
+        "text": "THE CUSTOMER SERVICE IS TERRIFIC!!",
+        "pred_aspect": "CUSTOMER SERVICE IS TERRIFIC",
+        "pred_score": 4.538150787353516
+    },
+    {
+        "id": 211,
+        "text": "My last laptop was a 17\" ASUS gaming machine, which performed admirably, but having since built my own desktop and really settling into the college life, I found myself wanting something smaller and less cumbersome, not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago.",
+        "pred_aspect": "ASUS gaming machine",
+        "pred_score": 1.916208028793335
+    },
+    {
+        "id": 212,
+        "text": "However, it did not have any scratches, ZERO battery cycle count (pretty surprised), and all the hardware seemed to be working perfectly.",
+        "pred_aspect": "hardware",
+        "pred_score": 6.987761497497559
+    },
+    {
+        "id": 213,
+        "text": "After fumbling around with the OS I started searching the internet for a fix and found a number of forums on fixing the issue.",
+        "pred_aspect": "OS",
+        "pred_score": 4.498160362243652
+    },
+    {
+        "id": 214,
+        "text": "And as for all the fancy finger swipes -- I just gave up and attached a mouse.",
+        "pred_aspect": "finger swipes",
+        "pred_score": 5.32253360748291
+    },
+    {
+        "id": 215,
+        "text": "I needed a laptop with big storage, a nice screen and fast so I can photoshop without any problem.",
+        "pred_aspect": "screen",
+        "pred_score": 6.576300621032715
+    },
+    {
+        "id": 216,
+        "text": "I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $400  old HP laptop.",
+        "pred_aspect": "speaker quality",
+        "pred_score": 7.007681846618652
+    },
+    {
+        "id": 217,
+        "text": "Shipped very quickly and safely.",
+        "pred_aspect": "Shipped",
+        "pred_score": 0.33366358280181885
+    },
+    {
+        "id": 218,
+        "text": "The thunderbolt port is awesome!",
+        "pred_aspect": "thunderbolt port",
+        "pred_score": 8.214736938476562
+    },
+    {
+        "id": 219,
+        "text": "The performance is definitely superior to any computer I've ever put my hands on.",
+        "pred_aspect": "performance",
+        "pred_score": 9.34254264831543
+    },
+    {
+        "id": 220,
+        "text": "It's great for streaming video and other entertainment uses.",
+        "pred_aspect": "streaming video",
+        "pred_score": 5.143455505371094
+    },
+    {
+        "id": 221,
+        "text": "I like the design and its features but there are somethings I think needs to be improved.",
+        "pred_aspect": "design",
+        "pred_score": 7.631519317626953
+    },
+    {
+        "id": 222,
+        "text": "There were small problems with Mac office.",
+        "pred_aspect": "Mac office",
+        "pred_score": -0.6227291226387024
+    },
+    {
+        "id": 223,
+        "text": "I understand I should call Apple Tech Support about any variables(which is my purpose of writing this con) as variables could be a bigger future problem.",
+        "pred_aspect": "Apple Tech Support",
+        "pred_score": 5.217439651489258
+    },
+    {
+        "id": 224,
+        "text": "I ordered my 2012 mac mini after being disappointed with spec of the new 27\" Imacs.",
+        "pred_aspect": "Imacs",
+        "pred_score": 2.263485908508301
+    },
+    {
+        "id": 225,
+        "text": "It still works and it's extremely user friendly, so I would recommend it for new computer user and also for those who are just looking for a more efficient way to do things",
+        "pred_aspect": "user friendly",
+        "pred_score": 3.134654998779297
+    },
+    {
+        "id": 226,
+        "text": "Its fast, easy to use and it looks great.",
+        "pred_aspect": "use",
+        "pred_score": 8.890459060668945
+    },
+    {
+        "id": 227,
+        "text": "(but Office can be purchased) IF I ever need a laptop again I am for sure purchasing another Toshiba!!",
+        "pred_aspect": "Office",
+        "pred_score": 2.5197880268096924
+    },
+    {
+        "id": 228,
+        "text": "I haven't tried the one with retina display... Maybe in the future.",
+        "pred_aspect": "retina display",
+        "pred_score": 7.201151371002197
+    },
+    {
+        "id": 229,
+        "text": "Performance is much much better on the Pro, especially if you install an SSD on it.",
+        "pred_aspect": "Performance",
+        "pred_score": 6.906734466552734
+    },
+    {
+        "id": 230,
+        "text": "Note, however, that any existing MagSafe accessories you have will not work with the MagSafe 2 connection.",
+        "pred_aspect": "MagSafe accessories you have will not work with the MagSafe 2 connection",
+        "pred_score": 5.298838138580322
+    },
+    {
+        "id": 231,
+        "text": "The only thing I dislike is the touchpad, alot of the times its unresponsive and does things I dont want it too, I would recommend using a mouse with it.",
+        "pred_aspect": "touchpad",
+        "pred_score": 7.591977119445801
+    },
+    {
+        "id": 232,
+        "text": "The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet, actually the fans aren't audible unlike my old pc",
+        "pred_aspect": "fans",
+        "pred_score": 6.29864501953125
+    },
+    {
+        "id": 233,
+        "text": "MAYBE The Mac OS improvement were not The product they Want to offer.",
+        "pred_aspect": "Mac OS improvement",
+        "pred_score": 5.68242883682251
+    },
+    {
+        "id": 234,
+        "text": "I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem.",
+        "pred_aspect": "Mac ecosystem",
+        "pred_score": 3.646636486053467
+    },
+    {
+        "id": 235,
+        "text": "It's absolutely wonderful and worth the price!",
+        "pred_aspect": "price",
+        "pred_score": 8.778488159179688
+    },
+    {
+        "id": 236,
+        "text": "I am please with the products ease of use; out of the box ready; appearance and functionality.",
+        "pred_aspect": "functionality",
+        "pred_score": 6.932034015655518
+    },
+    {
+        "id": 237,
+        "text": "Perfect for all my graphic design classes I'm taking this year in college :-)",
+        "pred_aspect": "graphic design",
+        "pred_score": 4.7822675704956055
+    },
+    {
+        "id": 238,
+        "text": "I will not be using that slot again.",
+        "pred_aspect": "slot",
+        "pred_score": 5.274153232574463
+    },
+    {
+        "id": 239,
+        "text": "The OS is fast and fluid, everything is organized and it's just beautiful.",
+        "pred_aspect": "OS",
+        "pred_score": 7.878583908081055
+    },
+    {
+        "id": 240,
+        "text": "They are simpler to use.",
+        "pred_aspect": "use",
+        "pred_score": 7.290910720825195
+    },
+    {
+        "id": 241,
+        "text": "!so nice .. stable .. fast .. now i got my SSD !",
+        "pred_aspect": "SSD",
+        "pred_score": 5.535186767578125
+    },
+    {
+        "id": 242,
+        "text": "Also, in using the built-in camera, my voice recording for my vlog sounds like the interplanetary transmissions in the \"Star Wars\" saga.",
+        "pred_aspect": "built-in camera",
+        "pred_score": 5.344747543334961
+    },
+    {
+        "id": 243,
+        "text": "I love the quick start up.",
+        "pred_aspect": "start up",
+        "pred_score": 4.115450859069824
+    },
+    {
+        "id": 244,
+        "text": "You just cannot beat the functionality of an Apple device.",
+        "pred_aspect": "functionality",
+        "pred_score": 7.933248519897461
+    },
+    {
+        "id": 245,
+        "text": "Yet my mac continues to function properly.",
+        "pred_aspect": "function",
+        "pred_score": 6.180136680603027
+    },
+    {
+        "id": 246,
+        "text": "Graphics are much improved.",
+        "pred_aspect": "Graphics",
+        "pred_score": 8.283634185791016
+    },
+    {
+        "id": 247,
+        "text": "Here are the things that made me confident with my purchase:Build Quality - Seriously, you can't beat a unibody construction.",
+        "pred_aspect": "construction",
+        "pred_score": 4.539207458496094
+    },
+    {
+        "id": 248,
+        "text": "It provides much more flexibility for connectivity.",
+        "pred_aspect": "connectivity",
+        "pred_score": 7.377215385437012
+    },
+    {
+        "id": 249,
+        "text": "I want the portability of a tablet, without the limitations of a tablet and that's where this laptop comes into play.",
+        "pred_aspect": "portability",
+        "pred_score": 6.415750980377197
+    },
+    {
+        "id": 250,
+        "text": "Mac tutorials do help.",
+        "pred_aspect": "Mac tutorials",
+        "pred_score": 5.368442535400391
+    },
+    {
+        "id": 251,
+        "text": "The technical support was not helpful as well.",
+        "pred_aspect": "technical support",
+        "pred_score": 8.304481506347656
+    },
+    {
+        "id": 252,
+        "text": "I got the new adapter and there was no change.",
+        "pred_aspect": "adapter",
+        "pred_score": 8.303342819213867
+    },
+    {
+        "id": 253,
+        "text": "so i called technical support.",
+        "pred_aspect": "technical support",
+        "pred_score": 8.369073867797852
+    },
+    {
+        "id": 254,
+        "text": "Came with iPhoto and garage band already loaded.",
+        "pred_aspect": "iPhoto and garage band",
+        "pred_score": 6.619056224822998
+    },
+    {
+        "id": 255,
+        "text": "Logic board utterly fried, cried, and laid down and died.",
+        "pred_aspect": "Logic board",
+        "pred_score": 7.961658477783203
+    },
+    {
+        "id": 256,
+        "text": "The sound was crappy even when you turn up the volume still the same results.",
+        "pred_aspect": "sound",
+        "pred_score": 9.201234817504883
+    },
+    {
+        "id": 257,
+        "text": "OSX Lion is a great performer..extremely fast and reliable.",
+        "pred_aspect": "performer",
+        "pred_score": 5.693028450012207
+    },
+    {
+        "id": 258,
+        "text": "Having heard from friends and family about how reliable a Mac product is, I never expected to have an application crash within the first month, but I did.",
+        "pred_aspect": "application crash",
+        "pred_score": 4.480830192565918
+    },
+    {
+        "id": 259,
+        "text": "The Macbook pro's physical form is wonderful.",
+        "pred_aspect": "physical form",
+        "pred_score": 5.264370918273926
+    },
+    {
+        "id": 260,
+        "text": "The Mini's body hasn't changed since late 2010- and for a good reason.",
+        "pred_aspect": "body",
+        "pred_score": -0.04107379913330078
+    },
+    {
+        "id": 261,
+        "text": "The unibody construction really does feel lot more solid than Apple's previous laptops.",
+        "pred_aspect": "unibody construction",
+        "pred_score": 7.958666801452637
+    },
+    {
+        "id": 262,
+        "text": "3D rendering slows it down considerably.",
+        "pred_aspect": "3D rendering",
+        "pred_score": 7.9308576583862305
+    },
+    {
+        "id": 263,
+        "text": "Got this Mac Mini with OS X Mountain Lion for my wife.",
+        "pred_aspect": "OS X Mountain Lion",
+        "pred_score": 3.310359001159668
+    },
+    {
+        "id": 264,
+        "text": "fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!",
+        "pred_aspect": "screen",
+        "pred_score": 6.7121968269348145
+    },
+    {
+        "id": 265,
+        "text": "12.44 seconds to boot.",
+        "pred_aspect": "boot",
+        "pred_score": 5.800671100616455
+    },
+    {
+        "id": 266,
+        "text": "All the ports are much needed since this is my main computer.",
+        "pred_aspect": "ports",
+        "pred_score": 7.27647590637207
+    },
+    {
+        "id": 267,
+        "text": "The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.",
+        "pred_aspect": "Quad-Core 2.5 GHz CPU",
+        "pred_score": 2.669163227081299
+    },
+    {
+        "id": 268,
+        "text": "Put a cover on it and is a little better but that is my only complaint.",
+        "pred_aspect": "cover",
+        "pred_score": 4.370553493499756
+    },
+    {
+        "id": 269,
+        "text": "Within a few hours I was using the gestures unconsciously.",
+        "pred_aspect": "gestures",
+        "pred_score": 7.57798957824707
+    },
+    {
+        "id": 270,
+        "text": "This mac does come with an extender cable and I'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac.",
+        "pred_aspect": "extender cable",
+        "pred_score": 5.151261806488037
+    },
+    {
+        "id": 271,
+        "text": "The 2.9ghz dual-core i7 chip really out does itself.",
+        "pred_aspect": "2.9ghz dual-core i7 chip",
+        "pred_score": 5.039175510406494
+    },
+    {
+        "id": 272,
+        "text": "It is pretty snappy and starts up in about 30 seconds which is good enough for me.",
+        "pred_aspect": "starts",
+        "pred_score": -0.24767163395881653
+    },
+    {
+        "id": 273,
+        "text": "So noise is reduced at least 50% and the heat is much better, now it doesn't feel hot but warm.",
+        "pred_aspect": "noise is reduced at least 50% and the heat",
+        "pred_score": 7.5297675132751465
+    },
+    {
+        "id": 274,
+        "text": "Not sure on Windows 8.",
+        "pred_aspect": "Windows 8",
+        "pred_score": 5.861841678619385
+    },
+    {
+        "id": 275,
+        "text": "My one complaint is that there was no internal CD drive.",
+        "pred_aspect": "internal CD drive",
+        "pred_score": 7.185548305511475
+    },
+    {
+        "id": 276,
+        "text": "This newer netbook has no hard drive or network lights.",
+        "pred_aspect": "hard drive or network lights",
+        "pred_score": 6.476595878601074
+    },
+    {
+        "id": 277,
+        "text": "I was having a though time deciding between the 13\" MacBook Air or the MacBook Pro 13\" (Both baseline models, priced at 1,200 $ retail)",
+        "pred_aspect": "baseline models",
+        "pred_score": 2.753857135772705
+    },
+    {
+        "id": 278,
+        "text": "Not too expense and has enough storage for most users and many ports.",
+        "pred_aspect": "storage",
+        "pred_score": 6.771744728088379
+    },
+    {
+        "id": 279,
+        "text": "The audio volume is quite low and virtually unusable in a room with any background activity.",
+        "pred_aspect": "audio volume",
+        "pred_score": 7.8596577644348145
+    },
+    {
+        "id": 280,
+        "text": "It is lightweight and the perfect size to carry to class.",
+        "pred_aspect": "size",
+        "pred_score": 6.431997299194336
+    },
+    {
+        "id": 281,
+        "text": "I was given a demonstration of Windows 8.",
+        "pred_aspect": "Windows 8",
+        "pred_score": 5.900960922241211
+    },
+    {
+        "id": 282,
+        "text": "The MBP is beautiful has many wonderful capabilities.",
+        "pred_aspect": "MBP",
+        "pred_score": 7.156498432159424
+    },
+    {
+        "id": 283,
+        "text": "I thought that it will be fine, if i do some settings.",
+        "pred_aspect": "settings",
+        "pred_score": 4.739554405212402
+    },
+    {
+        "id": 284,
+        "text": "Runs very smoothly.",
+        "pred_aspect": "Runs",
+        "pred_score": 3.382208824157715
+    },
+    {
+        "id": 285,
+        "text": "Boot-up slowed significantly after all Windows updates were installed.",
+        "pred_aspect": "Windows updates",
+        "pred_score": 5.842328071594238
+    },
+    {
+        "id": 286,
+        "text": "More likely it will require replacing the logic board once they admit they have a problem and come up with a solution.",
+        "pred_aspect": "logic board",
+        "pred_score": 6.019970893859863
+    },
+    {
+        "id": 287,
+        "text": "It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",
+        "pred_aspect": "word processing, graphic design",
+        "pred_score": 4.073025703430176
+    },
+    {
+        "id": 288,
+        "text": "I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.",
+        "pred_aspect": "mouse click menu",
+        "pred_score": 4.818778991699219
+    },
+    {
+        "id": 289,
+        "text": "Runs real quick.",
+        "pred_aspect": "Runs",
+        "pred_score": 2.1494829654693604
+    },
+    {
+        "id": 290,
+        "text": "Buy the separate RAM memory and you will have a rocket!",
+        "pred_aspect": "RAM memory",
+        "pred_score": 6.812260150909424
+    },
+    {
+        "id": 291,
+        "text": "Since the machine's slim profile is critical to me, that was a problem.",
+        "pred_aspect": "profile",
+        "pred_score": 8.131794929504395
+    },
+    {
+        "id": 292,
+        "text": "WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was required.",
+        "pred_aspect": "disk drive",
+        "pred_score": 6.275852203369141
+    },
+    {
+        "id": 293,
+        "text": "The SD card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.",
+        "pred_aspect": "SD card reader",
+        "pred_score": 4.479719161987305
+    },
+    {
+        "id": 294,
+        "text": "Soft touch, anodized aluminum with laser cut precision and no flaws.",
+        "pred_aspect": "laser cut precision",
+        "pred_score": 4.961126327514648
+    },
+    {
+        "id": 295,
+        "text": "Simple details, crafted aluminium and real glass make this laptop blow away the other plastic ridden, bulky sticker filled laptops.",
+        "pred_aspect": "glass",
+        "pred_score": 4.807765960693359
+    },
+    {
+        "id": 296,
+        "text": "First of all yes this is a mac and it has that nice brushed aluminum .",
+        "pred_aspect": "aluminum",
+        "pred_score": 3.6569557189941406
+    },
+    {
+        "id": 297,
+        "text": "After all was said and done, I essentially used that $450 savings to buy 16GB of RAM, TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive.",
+        "pred_aspect": "TWO Seagate Momentus XT hybrid drives",
+        "pred_score": 4.610352516174316
+    },
+    {
+        "id": 298,
+        "text": "The Dell Inspiron is fast and has a number pad on the keyboard, which I miss on my Apple laptops.",
+        "pred_aspect": "keyboard",
+        "pred_score": 4.461055755615234
+    },
+    {
+        "id": 299,
+        "text": "I was concerned that the downgrade to the regular hard drive would make it unacceptably slow but I need not have worried - this machine is the fastest I have ever owned...",
+        "pred_aspect": "hard drive",
+        "pred_score": 6.923383712768555
+    },
+    {
+        "id": 300,
+        "text": "This one still has the CD slot.",
+        "pred_aspect": "CD slot",
+        "pred_score": 7.684834957122803
+    },
+    {
+        "id": 301,
+        "text": "No HDMI port.",
+        "pred_aspect": "HDMI port",
+        "pred_score": 7.858682632446289
+    },
+    {
+        "id": 302,
+        "text": "I had to install Mountain Lion and it took a good two hours.",
+        "pred_aspect": "Mountain Lion",
+        "pred_score": 4.807285308837891
+    },
+    {
+        "id": 303,
+        "text": "Customization on mac is impossible.",
+        "pred_aspect": "Customization",
+        "pred_score": 6.0697455406188965
+    },
+    {
+        "id": 304,
+        "text": "I am replacing the HD with a Micron SSD soon.",
+        "pred_aspect": "Micron SSD",
+        "pred_score": 5.903560638427734
+    },
+    {
+        "id": 305,
+        "text": "Plus two finger clicking as a replacement for the right click button is surprisingly intuitive.",
+        "pred_aspect": "right click button",
+        "pred_score": 5.939029216766357
+    },
+    {
+        "id": 306,
+        "text": "The SuperDrive is quiet.",
+        "pred_aspect": "SuperDrive",
+        "pred_score": 8.94359302520752
+    },
+    {
+        "id": 307,
+        "text": "The power plug has to be connected to the power adaptor to charge the battery but won't stay connected.",
+        "pred_aspect": "power plug",
+        "pred_score": 6.4299468994140625
+    },
+    {
+        "id": 308,
+        "text": "The battery was completely dead, in fact it had grown about a quarter inch thick lump on the underside.",
+        "pred_aspect": "battery",
+        "pred_score": 9.533573150634766
+    },
+    {
+        "id": 309,
+        "text": "if yo like practicality this is the laptop for you.",
+        "pred_aspect": "practicality",
+        "pred_score": 0.8053281903266907
+    },
+    {
+        "id": 310,
+        "text": "The OS is great.",
+        "pred_aspect": "OS",
+        "pred_score": 8.441425323486328
+    },
+    {
+        "id": 311,
+        "text": "I tried several monitors and several HDMI cables and this was the case each time.",
+        "pred_aspect": "HDMI cables",
+        "pred_score": 7.188338279724121
+    },
+    {
+        "id": 312,
+        "text": "CONS: Price is a bit ridiculous, kinda heavy.",
+        "pred_aspect": "Price",
+        "pred_score": 8.735986709594727
+    },
+    {
+        "id": 313,
+        "text": "The troubleshooting said it was the AC adaptor so we ordered a new one.",
+        "pred_aspect": "AC adaptor",
+        "pred_score": 8.043782234191895
+    },
+    {
+        "id": 314,
+        "text": "Fan only comes on when you are playing a game.",
+        "pred_aspect": "Fan",
+        "pred_score": 4.569536209106445
+    },
+    {
+        "id": 315,
+        "text": "Which it did not have, only 3 USB 2 ports.",
+        "pred_aspect": "USB 2 ports",
+        "pred_score": 6.41923189163208
+    },
+    {
+        "id": 316,
+        "text": "No startup disk was not included but that may be my fault.",
+        "pred_aspect": "startup disk",
+        "pred_score": 7.3326897621154785
+    },
+    {
+        "id": 317,
+        "text": "There is no \"tools\" menu.",
+        "pred_aspect": "tools\" menu",
+        "pred_score": 6.712433815002441
+    },
+    {
+        "id": 318,
+        "text": "It is very fast and has everything that I need except for a word program.",
+        "pred_aspect": "word program",
+        "pred_score": 6.463288307189941
+    },
+    {
+        "id": 319,
+        "text": "Needs a CD/DVD drive and a bigger power switch.",
+        "pred_aspect": "CD/DVD drive",
+        "pred_score": 6.454315185546875
+    },
+    {
+        "id": 320,
+        "text": "My laptop with Windows 7 crashed and I did not want Windows 8.",
+        "pred_aspect": "Windows 7",
+        "pred_score": 5.757062911987305
+    },
+    {
+        "id": 321,
+        "text": "Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi.",
+        "pred_aspect": "ADSl cable or wifi",
+        "pred_score": 5.433293342590332
+    },
+    {
+        "id": 322,
+        "text": "The speakers could have been better but it wasn't a deal breaker... this is a great little laptop... love it!",
+        "pred_aspect": "speakers",
+        "pred_score": 8.855779647827148
+    },
+    {
+        "id": 323,
+        "text": "Nice packing.",
+        "pred_aspect": "packing",
+        "pred_score": 5.677524089813232
+    },
+    {
+        "id": 324,
+        "text": "I switched to this because I wanted something different, even though I miss windows.",
+        "pred_aspect": "windows",
+        "pred_score": 7.897912502288818
+    },
+    {
+        "id": 325,
+        "text": "Apple no longer includes iDVD with the computer and furthermore, Apple doesn't even offer it anymore!",
+        "pred_aspect": "iDVD",
+        "pred_score": 4.1539411544799805
+    },
+    {
+        "id": 326,
+        "text": "I also wanted Windows 7, which this one has.",
+        "pred_aspect": "Windows 7",
+        "pred_score": 7.533655166625977
+    },
+    {
+        "id": 327,
+        "text": "At first, I feel a little bit uncomfortable in using the Mac system.",
+        "pred_aspect": "Mac system",
+        "pred_score": 5.314816474914551
+    },
+    {
+        "id": 328,
+        "text": "I am used to computers with windows so I am having a little difficulty finding my way around.",
+        "pred_aspect": "windows",
+        "pred_score": 6.240688323974609
+    },
+    {
+        "id": 329,
+        "text": "It just works out of the box and you have a lot of cool software included with the OS.",
+        "pred_aspect": "software",
+        "pred_score": 6.403542518615723
+    },
+    {
+        "id": 330,
+        "text": "its as advertised on here..... it works great and is not a waste of money!",
+        "pred_aspect": "works",
+        "pred_score": 5.396694183349609
+    },
+    {
+        "id": 331,
+        "text": "Runs like a champ.....",
+        "pred_aspect": "Runs",
+        "pred_score": 4.439598560333252
+    },
+    {
+        "id": 332,
+        "text": "Premium price for the OS more than anything else.",
+        "pred_aspect": "OS",
+        "pred_score": 7.22758674621582
+    },
+    {
+        "id": 333,
+        "text": "I was a little concerned about the touch pad based on reviews, but I've found it fine to work with.",
+        "pred_aspect": "touch pad",
+        "pred_score": 9.786378860473633
+    },
+    {
+        "id": 334,
+        "text": "I bought this Mac book pro along with a new 27\" iMac and while they are still light years more reliable than a PC I have noticed a decline in the reliability of my Mac computers.",
+        "pred_aspect": "reliability",
+        "pred_score": 6.6699395179748535
+    },
+    {
+        "id": 335,
+        "text": "The sound as mentioned earlier isn't the best, but it can be solved with headphones.",
+        "pred_aspect": "sound",
+        "pred_score": 8.398599624633789
+    },
+    {
+        "id": 336,
+        "text": "The track pad is a bit squirrely at times- sometimes too sensitive, and sometimes a bit unresponsive, but it's usable.",
+        "pred_aspect": "track pad",
+        "pred_score": 9.297163963317871
+    },
+    {
+        "id": 337,
+        "text": "However, the experience was great since the OS does not become unstable and the application will simply shutdown and reopen.",
+        "pred_aspect": "OS does not become unstable and the application",
+        "pred_score": 7.292099952697754
+    },
+    {
+        "id": 338,
+        "text": "If you ask me, for this price it should be included.",
+        "pred_aspect": "price",
+        "pred_score": 7.5035905838012695
+    },
+    {
+        "id": 339,
+        "text": "The battery is not as shown in the product photos.",
+        "pred_aspect": "battery",
+        "pred_score": 8.54210090637207
+    },
+    {
+        "id": 340,
+        "text": "Even though I could have gotten a pc twice the speed for the same price I still think there's nothing like a Mac.",
+        "pred_aspect": "price",
+        "pred_score": 7.256422519683838
+    },
+    {
+        "id": 341,
+        "text": "Shipping was quick and product described was the product sent and so much more...",
+        "pred_aspect": "Shipping",
+        "pred_score": 7.46053409576416
+    },
+    {
+        "id": 342,
+        "text": "the retina display display make pictures i took years ago jaw dropping.",
+        "pred_aspect": "retina display display",
+        "pred_score": 6.535433292388916
+    },
+    {
+        "id": 343,
+        "text": "The Mac Mini is probably the simplest example of compact computing out there.",
+        "pred_aspect": "computing",
+        "pred_score": 2.111743927001953
+    },
+    {
+        "id": 344,
+        "text": "Instead, I'll focus more on the actual performance and feature set of the hardware itself so you can make an educated decision on which Mac to buy.",
+        "pred_aspect": "performance and feature set of the hardware",
+        "pred_score": 6.00725793838501
+    },
+    {
+        "id": 345,
+        "text": "Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.",
+        "pred_aspect": "FireWire 800, Gigabit Ethernet",
+        "pred_score": 6.187430381774902
+    },
+    {
+        "id": 346,
+        "text": "Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.",
+        "pred_aspect": "ventilation system",
+        "pred_score": 6.7425055503845215
+    },
+    {
+        "id": 347,
+        "text": "Chatting with Acer support, I was advised the problem was corrupted operating system files.",
+        "pred_aspect": "Acer support",
+        "pred_score": 7.19370174407959
+    },
+    {
+        "id": 348,
+        "text": "It's been a couple weeks since the purchase and I'm struggle with finding the correct keys (but that was expected).",
+        "pred_aspect": "keys",
+        "pred_score": 7.045015335083008
+    },
+    {
+        "id": 349,
+        "text": "Many people complain about the new OS, and it's urgent for Apple to fix it asap!",
+        "pred_aspect": "OS",
+        "pred_score": 5.742833614349365
+    },
+    {
+        "id": 350,
+        "text": "Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office.",
+        "pred_aspect": "MAC OS",
+        "pred_score": 4.566503524780273
+    },
+    {
+        "id": 351,
+        "text": "User upgradeable RAM and HDD.",
+        "pred_aspect": "User upgradeable RAM and HDD",
+        "pred_score": 6.9838666915893555
+    },
+    {
+        "id": 352,
+        "text": "But I wanted the Pro for the CD/DVD player.",
+        "pred_aspect": "Pro for the CD/DVD player",
+        "pred_score": 7.148661136627197
+    },
+    {
+        "id": 353,
+        "text": "The RAM memory is good but should have splurged for 8Mb instead of 4Mb.",
+        "pred_aspect": "RAM memory",
+        "pred_score": 6.413782596588135
+    },
+    {
+        "id": 354,
+        "text": "I was a little worry at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.",
+        "pred_aspect": "windows",
+        "pred_score": 4.719033241271973
+    },
+    {
+        "id": 355,
+        "text": "With the softwares supporting the use of other OS makes it much better.",
+        "pred_aspect": "softwares",
+        "pred_score": 7.170205116271973
+    },
+    {
+        "id": 356,
+        "text": "I then upgraded to Mac OS X 10.8 \"Mountain Lion\".",
+        "pred_aspect": "Mac OS X 10.8 \"Mountain Lion",
+        "pred_score": 3.3027305603027344
+    },
+    {
+        "id": 357,
+        "text": "I was considering buying the Air, but in reality, this one has a more powerful performance and seems much more convenient, even though it's about .20 inch thicker and 2 lbs heavier.",
+        "pred_aspect": "performance",
+        "pred_score": 7.947782516479492
+    },
+    {
+        "id": 358,
+        "text": "At home and the office it gets plugged into an external 24\" LCD screen, so built in screen size is not terribly important.",
+        "pred_aspect": "screen size",
+        "pred_score": 5.77229118347168
+    },
+    {
+        "id": 359,
+        "text": "Just beware no DVD slot so when I went to install software I had on CD I couldn't.",
+        "pred_aspect": "DVD slot",
+        "pred_score": 6.3748674392700195
+    },
+    {
+        "id": 360,
+        "text": "I bought it to be able to dedicate a small, portable laptop to my writing and was surprised to learn that I needed to buy a word processing program to do so.",
+        "pred_aspect": "word processing program",
+        "pred_score": 5.741123676300049
+    },
+    {
+        "id": 361,
+        "text": "This version of MacBook Pro runs on a third-generation CPU (\"Ivy Bridge\"), not the latest fourth-generation Haswell CPU the 2013 version has.",
+        "pred_aspect": "CPU",
+        "pred_score": 4.226480007171631
+    },
+    {
+        "id": 362,
+        "text": "No Cd Rom in the new version there's no way I'm spending that kind of money on something has less features than the older version.",
+        "pred_aspect": "features",
+        "pred_score": 5.727972030639648
+    },
+    {
+        "id": 363,
+        "text": "the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer",
+        "pred_aspect": "volume",
+        "pred_score": 8.302998542785645
+    },
+    {
+        "id": 364,
+        "text": "and its not hard to accidentally bang it against something so i recommend getting a case to protect it.",
+        "pred_aspect": "case",
+        "pred_score": 2.564253330230713
+    },
+    {
+        "id": 365,
+        "text": "I got this at an amazing price from Amazon and it arrived just in time.",
+        "pred_aspect": "price",
+        "pred_score": 8.41197395324707
+    },
+    {
+        "id": 366,
+        "text": "Every time I log into the system after a few hours, there is this endlessly frustrating process that I have to go through.",
+        "pred_aspect": "system",
+        "pred_score": 4.129575729370117
+    },
+    {
+        "id": 367,
+        "text": "Put a SSD and use a 21\" LED screen, this set up is silky smooth!",
+        "pred_aspect": "SSD and use a 21\" LED screen",
+        "pred_score": 6.599817276000977
+    },
+    {
+        "id": 368,
+        "text": "The case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.",
+        "pred_aspect": "case is now slightly larger than the previous generation, but the lack of an external power supply",
+        "pred_score": 6.2956624031066895
+    },
+    {
+        "id": 369,
+        "text": "I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.",
+        "pred_aspect": "key board",
+        "pred_score": 5.326589584350586
+    },
+    {
+        "id": 370,
+        "text": "When considering a Mac, look at the total cost of ownership and not just the initial price tag.",
+        "pred_aspect": "price tag",
+        "pred_score": 5.363833427429199
+    },
+    {
+        "id": 371,
+        "text": "Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.",
+        "pred_aspect": "VGA port",
+        "pred_score": 5.564277648925781
+    },
+    {
+        "id": 372,
+        "text": "The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip.",
+        "pred_aspect": "grip",
+        "pred_score": 7.669836044311523
+    },
+    {
+        "id": 373,
+        "text": "It's a decent computer for the price and hopefully it will last a long time.",
+        "pred_aspect": "price",
+        "pred_score": 8.082468032836914
+    },
+    {
+        "id": 374,
+        "text": "I was really happy because it is a much better price on amazon.com than it was in the Mac store.",
+        "pred_aspect": "price",
+        "pred_score": 7.6155195236206055
+    },
+    {
+        "id": 375,
+        "text": "The nicest  part is the low heat output and ultra quiet operation.",
+        "pred_aspect": "operation",
+        "pred_score": 7.396617412567139
+    },
+    {
+        "id": 376,
+        "text": "I will upgrade the ram myself (because with this model you can you can do it) later on.",
+        "pred_aspect": "ram",
+        "pred_score": 5.311821937561035
+    },
+    {
+        "id": 377,
+        "text": "The price is 200 dollars down.",
+        "pred_aspect": "price",
+        "pred_score": 9.079607963562012
+    },
+    {
+        "id": 378,
+        "text": "this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.",
+        "pred_aspect": "built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones",
+        "pred_score": 4.776904582977295
+    },
+    {
+        "id": 379,
+        "text": "A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC.",
+        "pred_aspect": "features",
+        "pred_score": 6.956368446350098
+    },
+    {
+        "id": 380,
+        "text": "Wasn't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different.",
+        "pred_aspect": "IOS system",
+        "pred_score": 6.088967323303223
+    },
+    {
+        "id": 381,
+        "text": "air has higher resolution but the fonts are small.",
+        "pred_aspect": "air has higher resolution",
+        "pred_score": 7.354487419128418
+    },
+    {
+        "id": 382,
+        "text": "working with Mac is so much easier, so many cool features.",
+        "pred_aspect": "features",
+        "pred_score": 6.118103981018066
+    },
+    {
+        "id": 383,
+        "text": "I like the brightness and adjustments.",
+        "pred_aspect": "brightness",
+        "pred_score": 7.588968276977539
+    },
+    {
+        "id": 384,
+        "text": "I only wish this mac had a CD/DVD player built in.",
+        "pred_aspect": "CD/DVD player",
+        "pred_score": 6.012672424316406
+    },
+    {
+        "id": 385,
+        "text": "The only thing I miss is that my old Alienware laptop had backlit keys.",
+        "pred_aspect": "backlit keys",
+        "pred_score": 6.066616058349609
+    },
+    {
+        "id": 386,
+        "text": "The only thing I miss are the \"Home/End\" type keys and other things that I grew accustomed to after so long.",
+        "pred_aspect": "Home/End\" type keys",
+        "pred_score": 5.760379791259766
+    },
+    {
+        "id": 387,
+        "text": "So happy with this purchase, I just wish it came with Microsoft Word.",
+        "pred_aspect": "Microsoft Word",
+        "pred_score": 6.712971210479736
+    },
+    {
+        "id": 388,
+        "text": "It has enough memory and speed to run my business with all the flexibility that comes with a laptop.",
+        "pred_aspect": "memory and speed",
+        "pred_score": 6.613489151000977
+    },
+    {
+        "id": 389,
+        "text": "The speed, the simplicity, the design.. it is lightyears ahead of any PC I have ever owned.",
+        "pred_aspect": "design",
+        "pred_score": 8.600192070007324
+    },
+    {
+        "id": 390,
+        "text": "The battery life is excellent, the display is excellent, and downloading apps is a  breeze.",
+        "pred_aspect": "display",
+        "pred_score": 7.9218902587890625
+    },
+    {
+        "id": 391,
+        "text": "The screen, the software and the smoothness of the operating system.",
+        "pred_aspect": "screen",
+        "pred_score": 7.469010353088379
+    },
+    {
+        "id": 392,
+        "text": "i have dropped mine a couple times with only a slim plastic case covering it.",
+        "pred_aspect": "case",
+        "pred_score": 5.789908409118652
+    },
+    {
+        "id": 393,
+        "text": "I also made a recovery USB stick.",
+        "pred_aspect": "recovery USB stick",
+        "pred_score": 7.043020725250244
+    },
+    {
+        "id": 394,
+        "text": "But with this laptop, the bass is very weak and the sound comes out sounding tinny.",
+        "pred_aspect": "bass",
+        "pred_score": 8.214914321899414
+    },
+    {
+        "id": 395,
+        "text": "The built quality is really good, I was so Happy and excited about this Product.",
+        "pred_aspect": "built quality",
+        "pred_score": 7.964067459106445
+    },
+    {
+        "id": 396,
+        "text": "I am loving the fast performance also.",
+        "pred_aspect": "performance",
+        "pred_score": 8.409252166748047
+    },
+    {
+        "id": 397,
+        "text": "Further, this Mac Mini has a sloppy Bluetooth interface (courtesy of the Mac OS) and the range is poor.",
+        "pred_aspect": "range",
+        "pred_score": 6.622122764587402
+    },
+    {
+        "id": 398,
+        "text": "If you start on the far right side and scroll to your left the start menu will automatically come up.",
+        "pred_aspect": "start menu",
+        "pred_score": 6.233051300048828
+    },
+    {
+        "id": 399,
+        "text": "My only gripe would be the need to add more RAM.",
+        "pred_aspect": "RAM",
+        "pred_score": 6.8689165115356445
+    },
+    {
+        "id": 400,
+        "text": "Fine if you have a touch screen.",
+        "pred_aspect": "touch screen",
+        "pred_score": 7.591720104217529
+    },
+    {
+        "id": 401,
+        "text": "As far as user type - I dabble in everything from games (WoW) to Photoshop, but nothing professionally.",
+        "pred_aspect": "Photoshop",
+        "pred_score": 5.812826156616211
+    },
+    {
+        "id": 402,
+        "text": "I re-seated the \"WLAN\" card inside and re-installed the LAN device drivers.",
+        "pred_aspect": "LAN device drivers",
+        "pred_score": 6.080653667449951
+    },
+    {
+        "id": 403,
+        "text": "This by far beats any computer out on the market today built well, battery life AMAZING.",
+        "pred_aspect": "battery life",
+        "pred_score": 6.827096462249756
+    },
+    {
+        "id": 404,
+        "text": "The OS is easy, and offers all kinds of surprises.",
+        "pred_aspect": "OS",
+        "pred_score": 7.8124799728393555
+    },
+    {
+        "id": 405,
+        "text": "I had to get Apple Customer Support to correct the problem.",
+        "pred_aspect": "Apple Customer Support",
+        "pred_score": 8.280552864074707
+    },
+    {
+        "id": 406,
+        "text": "A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.",
+        "pred_aspect": "feature",
+        "pred_score": 5.644800186157227
+    },
+    {
+        "id": 407,
+        "text": "I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.",
+        "pred_aspect": "security",
+        "pred_score": 5.9201483726501465
+    },
+    {
+        "id": 408,
+        "text": "The first time I used the card reader it took half an hour and a pair of tweezers to remove the card.",
+        "pred_aspect": "card reader it took half an hour and a pair of tweezers",
+        "pred_score": 4.565635681152344
+    },
+    {
+        "id": 409,
+        "text": "After replacing the spinning hard disk with an ssd drive, my mac is just flying.",
+        "pred_aspect": "ssd drive",
+        "pred_score": 6.19968318939209
+    },
+    {
+        "id": 410,
+        "text": "I know some people complained about HDMI issues but they released a firmware patch to address that issue.",
+        "pred_aspect": "firmware patch",
+        "pred_score": 6.553781509399414
+    },
+    {
+        "id": 411,
+        "text": "With the needs of a professional photographer I generally need to keep up with the best specs.",
+        "pred_aspect": "specs",
+        "pred_score": 4.002598285675049
+    },
+    {
+        "id": 412,
+        "text": "packing and everything was perfect",
+        "pred_aspect": "packing",
+        "pred_score": 4.199365139007568
+    },
+    {
+        "id": 413,
+        "text": "I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards.",
+        "pred_aspect": "mother boards",
+        "pred_score": 6.253211498260498
+    },
+    {
+        "id": 414,
+        "text": "I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty, related to the graphics card.",
+        "pred_aspect": "Mother Board",
+        "pred_score": 8.123400688171387
+    },
+    {
+        "id": 415,
+        "text": "It also comes with 4G of RAM but if you're like me you want to max that out so I immediately put 8G of RAM in her and I've never used a computer that performs better.",
+        "pred_aspect": "RAM",
+        "pred_score": 4.150184631347656
+    },
+    {
+        "id": 416,
+        "text": "This computer is also awesome for my sons virtual home schooling.",
+        "pred_aspect": "virtual home schooling",
+        "pred_score": 3.199828624725342
+    },
+    {
+        "id": 417,
+        "text": "Cost is more as compared to other brands.",
+        "pred_aspect": "Cost",
+        "pred_score": 6.323825836181641
+    },
+    {
+        "id": 418,
+        "text": "also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-",
+        "pred_aspect": "trackpad",
+        "pred_score": 5.972107410430908
+    },
+    {
+        "id": 419,
+        "text": "This hardware seems to be better than the iMac in that it isn't $1400 and smaller.",
+        "pred_aspect": "hardware",
+        "pred_score": 8.023698806762695
+    },
+    {
+        "id": 420,
+        "text": "I've had it for about 2 months now and found no issues with software or updates.",
+        "pred_aspect": "software",
+        "pred_score": 6.76420783996582
+    },
+    {
+        "id": 421,
+        "text": "the latest version does not have a disc drive.",
+        "pred_aspect": "disc drive",
+        "pred_score": 6.978218078613281
+    },
+    {
+        "id": 422,
+        "text": "Screen - although some people might complain about low res which I think is ridiculous.",
+        "pred_aspect": "Screen",
+        "pred_score": 7.717247486114502
+    }
+]
